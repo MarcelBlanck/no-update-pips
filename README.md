@@ -2,16 +2,16 @@
 
 **No Update Pips** is a lightweight Foundry VTT module that hides the
 distracting red exclamation marks ("pips") which appear in the sidebar
-when a core or system update is available.
+when a core and/or system update is available.
 
-> Perfect for forks, offline setups, and clean UIs.
+> Perfect for streaming, forks, offline setups, and any other clean UIs scenarios.
 
 ## ✨ Features
 
 - ✅ Hides the red update pips in the sidebar (core + system)
 - ✅ Clean integration – no impact on other UI elements
 - ✅ Toggle setting to enable/disable the feature (on by default)
-- ✅ Zero performance impact – pure CSS
+- ✅ Near Zero performance impact – pure CSS
 
 ## 📦 Installation
 
@@ -20,7 +20,7 @@ when a core or system update is available.
 Paste the following link into Foundry VTT’s **Install Module** dialog:
 
 ```
-https://raw.githubusercontent.com/MarcelBlanck/no-update-pips/refs/tags/v1.0.0/module.json
+https://raw.githubusercontent.com/MarcelBlanck/no-update-pips/refs/tags/v1.0.1/module.json
 ```
 
 ### 🖐️ Manual Installation
@@ -40,10 +40,11 @@ After installation:
 3. After an automatic reload the update pips are hidden by default
 3. (Optional) Open **Module Settings** and toggle the feature
 
-## ☕ Support
+## ☕ Enjoying the calm?
 
-If you like this module and want to support my work, you can buy me a coffee:
+If this little tweak brought you peace, consider fueling my next late-night coding session:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/marcelblanck)
 
-> Your support is deeply appreciated and keeps me building new stuff for Foundry!
+
+> Yes, I really did stay up way too late removing red dots for you. Totally worth it.

@@ -1,0 +1,8 @@
+{
+    "NO_UPDATE_PIPS": {
+        "settings": {
+            "name": "Update-Hinweise ausblenden",
+            "hint": "Blendet die roten Ausrufezeichen für System- und Kern-Updates aus."
+        }
+    }
+}
